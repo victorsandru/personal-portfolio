@@ -9,7 +9,7 @@ Source code for my personal website: www.victorsandru.com
 ## Back End
  - FireBase
  - Google Cloud Platform
-## future plans and updates: 
+## Future plans and updates: 
 - Updating to React
 - Implemting a blog
 - Adding a seperate page for my projects
